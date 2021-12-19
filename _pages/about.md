@@ -10,13 +10,9 @@ redirect_from:
 
 Hello! 👋  I'm Zhengzhuo Xu (许正卓)
 ======
-balabalabalabalabalabalabalabalabalabalaba
+I will graduate at *2023* 🙌 . My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>3D recognization</u> / <u>style transfer on 2D/3D</u>. I'm preparing to look for jobs 🧑‍💻 ~ Yang Chaoyue bless me 🙏 ! 
 
-labalabalabalabalabalabalabalabalabalabala
-
-balabalabalabalabalabalabalabalabalabalaba
-
-la
+Contact me via  ✉️  <u>xuzhengzhuo@foxmail.com</u>.
 
 
 Research Intern 💼
@@ -74,11 +70,12 @@ Yutong Xie, **Zhengzhuo Xu**, Jing Xu, Shimin Gong, Yi Wang <br>
 Awards 🌟
 ======
 - Tsinghua Friend JiuJiang Scholarship (TOP 5%)
-- Excellent students of QiMing College (TOP 1%)
+- Excellent Students of QiMing College (TOP 1%)
 - HaiHang Scholarship (TOP 1%)
 - Outstanding Undergraduate Graduates of HUST (TOP 10%)
 - First Class Scholarship of HUST (3 times, TOP 10%)
-- New student scholarship of HUST (TOP 30%)
+- New Student Scholarship of HUST (TOP 30%)
+
 <!-- - 清华之友 九江奖学金 (TOP 5%)
 - 启明学院特优生 (TOP 5%)
 - 华中科技大学本科优秀毕业生 (TOP 10%)
@@ -89,7 +86,12 @@ Awards 🌟
 Projection 🔨
 ======
 - 中国移动应用创新赛 (CCCC 2019)， 决赛二等奖, [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] on Apple Store
-- Short-term exchange at Oriel College, [Oxford](https://www.ox.ac.uk/cn)
 - 贝贝网种子杯，复赛 Rank **11**/1000, Code on [[Github](https://github.com/wslwlm/SeedCup2019)]
 - 数字信号处理课设，电子钢琴, Code on [[Github](https://github.com/byrrice/Matlab-Final-Project)]
 
+Leadership 🔭 
+======
+- 清华大学年度优秀支部委员
+- 清华大学深计研20党支部，组织委员
+- 华中科技大学社联社团部，副部长
+- Short-term exchange at Oriel College, [Oxford](https://www.ox.ac.uk/cn)
