@@ -8,34 +8,88 @@ redirect_from:
   - /about.html
 ---
 
-This is my homepage!
+Hello! 👋  I'm Zhengzhuo Xu (许正卓)
 ======
-简介 Todo
+balabalabalabalabalabalabalabalabalabalaba
 
-Education
+labalabalabalabalabalabalabalabalabalabala
+
+balabalabalabalabalabalabalabalabalabalaba
+
+la
+
+
+Research Intern 💼
 ======
-Todo
+- 2021.07 - Today <br>
+[Tencent AI lab](https://ai.tencent.com/ailab/zh/index/) supervised by Dr. [Linchao Bao](https://linchaobao.github.io/) and focus on 3D Reconstruction / Style Transfer.
+- 2019.12 - 2020.06 <br>
+[Ping An Tech](https://tech.pingan.com/) supervised by Dr. [Haiqin Yang](https://hqyang.github.io/) and focus on Data Mining.
 
-<!-- Pubulcation
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Education 🎓
+======
+- 2020.09 - Today <br>
+2nd-year M.S. at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Dr. [Chun Yuan](https://www.sigs.tsinghua.edu.cn/yc2/main.htm) and focus on Long-tailed Data Mining. <br>
+GPA: **3.89**/4.00
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- 2016.09 - 2020.06 <br>
+Recieved the Bachelor degree of Electrical Engineering in [Qiming College](http://qiming.hust.edu.cn/), [EIC](http://ei.hust.edu.cn/), [HUST](https://www.hust.edu.cn/). <br>
+Weighted score: **88.84**/100 (Top **3**%)
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Pubulcation 📄 
+======
+- *Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective* <br>
+**Zhengzhuo Xu**\*, Zenghao Chai\*, Chun Yuan <br>
+**NeurIPS**, 2021. [[Paper](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Github](https://github.com/XuZhengzhuo/Prior-LT)]
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
+Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
+arXiv preprint, 2021. [[Paper](https://arxiv.org/abs/2112.02225)]
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
+Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
+arXiv preprint, 2021. [[Paper](https://arxiv.org/abs/2102.03586)]
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+- *Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization* <br>
+Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
+arXiv preprint, 2021. [[Paper](https://arxiv.org/abs/2112.01335)]
+
+- *MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning* <br>
+Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
+arXiv preprint, 2021. [[Paper](https://arxiv.org/abs/2110.12978)]
+
+- *Backscatter-assisted computation offloading for energy harvesting IoT devices via policy-based deep reinforcement learning* <br>
+Yutong Xie, **Zhengzhuo Xu**, Yuxing Zhong, Jing Xu, Shimin Gong, Yi Wang <br>
+IEEE/CIC **ICCC Workshops**, 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/8849964)]
+
+- *Backscatter-assisted hybrid relaying strategy for wireless powered IoT communications* <br>
+Yutong Xie, **Zhengzhuo Xu**, Shimin Gong, Jing Xu, Dinh Thai Hoang, Dusit Niyato <br>
+IEEE **GLOBECOM**, 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/9013386)]
+
+- *Backscatter-aided hybrid data offloading for mobile edge computing via deep reinforcement learning* <br>
+Yutong Xie, **Zhengzhuo Xu**, Jing Xu, Shimin Gong, Yi Wang <br>
+**MLICOM**, 2019. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-32388-2_45)]
+
+Awards 🌟
+======
+- Tsinghua Friend JiuJiang Scholarship (TOP 5%)
+- Excellent students of QiMing College (TOP 1%)
+- HaiHang Scholarship (TOP 1%)
+- Outstanding Undergraduate Graduates of HUST (TOP 10%)
+- First Class Scholarship of HUST (3 times, TOP 10%)
+- New student scholarship of HUST (TOP 30%)
+<!-- - 清华之友 九江奖学金 (TOP 5%)
+- 启明学院特优生 (TOP 5%)
+- 华中科技大学本科优秀毕业生 (TOP 10%)
+- 海航奖学金 (TOP 1%)
+- 一等奖学金 × 3 (TOP 10%)
+- 新生奖学金 (TOP 30%) -->
+
+Projection 🔨
+======
+- 中国移动应用创新赛 (CCCC 2019)， 决赛二等奖, [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] on Apple Store
+- Short-term exchange at Oriel College, [Oxford](https://www.ox.ac.uk/cn)
+- 贝贝网种子杯，复赛 Rank **11**/1000, Code on [[Github](https://github.com/wslwlm/SeedCup2019)]
+- 数字信号处理课设，电子钢琴, Code on [[Github](https://github.com/byrrice/Matlab-Final-Project)]
+
