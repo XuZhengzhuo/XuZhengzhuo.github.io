@@ -10,12 +10,11 @@ redirect_from:
 
 This is my homepage!
 ======
-balabala
+简介 Todo
 
 Education
 ======
-- 2016-2020
-- 2020-now
+Todo
 
 <!-- Pubulcation
 ------
