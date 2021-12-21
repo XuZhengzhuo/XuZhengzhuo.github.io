@@ -28,6 +28,9 @@ Education 🎓
 2nd-year M.S. at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Dr. [Chun Yuan](https://www.sigs.tsinghua.edu.cn/yc2/main.htm) and focus on Long-tailed Data Mining. <br>
 GPA: **3.89**/4.00
 
+- 2017.07 - 2017.09 <br>
+Short-term exchange at [Oriel College](https://www.oriel.ox.ac.uk), [Oxford](https://www.ox.ac.uk/cn).
+  
 - 2016.09 - 2020.06 <br>
 Recieved the Bachelor degree of Electrical Engineering in [Qiming College](http://qiming.hust.edu.cn/), [EIC](http://ei.hust.edu.cn/), [HUST](https://www.hust.edu.cn/). <br>
 Weighted score: **88.84**/100 (Top **3**%)
@@ -85,13 +88,15 @@ Awards 🌟
 
 Projection 🔨
 ======
-- 中国移动应用创新赛 (CCCC 2019)， 决赛二等奖, [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] on Apple Store
-- 贝贝网种子杯，复赛 Rank **11**/1000, Code on [[Github](https://github.com/wslwlm/SeedCup2019)]
-- 数字信号处理课设，电子钢琴, Code on [[Github](https://github.com/byrrice/Matlab-Final-Project)]
+- China Collegiate Computing Contest ([CCCC](http://www.appcontest.net/)) 2019. <br>
+Second prize in the **final**, [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] available at Apple Store.
+- Seed Cup Competition 2017. <br>
+Rank **11**/1000, Code on [[Github](https://github.com/wslwlm/SeedCup2019)]
+- Digital Signal Processing course design. <br>
+Electronic piano, Code on [[Github](https://github.com/byrrice/Matlab-Final-Project)]
 
 Leadership 🔭 
 ======
 - 清华大学年度优秀支部委员
 - 清华大学深计研20党支部，组织委员
 - 华中科技大学社联社团部，副部长
-- Short-term exchange at Oriel College, [Oxford](https://www.ox.ac.uk/cn)
