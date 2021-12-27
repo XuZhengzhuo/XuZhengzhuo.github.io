@@ -42,7 +42,7 @@ Recieved the Bachelor degree of Electrical Engineering in [Qiming College](http:
 Weighted score: **88.84**/100 (Top **3**%)
 
 
-Pubulcation 📄 
+Publication 📄 
 ======
 - *Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective* <br>
 **Zhengzhuo Xu**\*, Zenghao Chai\*, Chun Yuan <br>
