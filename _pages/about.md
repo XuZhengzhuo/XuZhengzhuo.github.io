@@ -24,9 +24,9 @@ Contact me via  ✉️  <u>xuzhengzhuo@foxmail.com</u>.
 Research Intern 💼
 ======
 - 2021.07 - Today <br>
-[Tencent AI lab](https://ai.tencent.com/ailab/zh/index/) supervised by Dr. [Linchao Bao](https://linchaobao.github.io/) and focus on 3D Reconstruction / Style Transfer.
+[Tencent AI lab](https://ai.tencent.com/ailab/zh/index/) supervised by *Dr*. [Linchao Bao](https://linchaobao.github.io/) and focus on 3D Reconstruction / Style Transfer.
 - 2019.12 - 2020.06 <br>
-[Ping An Tech](https://tech.pingan.com/) supervised by Dr. [Haiqin Yang](https://hqyang.github.io/) and focus on Data Mining.
+[Ping An Tech](https://tech.pingan.com/) supervised by *Dr*. [Haiqin Yang](https://hqyang.github.io/) and focus on Data Mining.
 
 Education 🎓
 ======
