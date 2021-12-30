@@ -31,7 +31,7 @@ Research Intern 💼
 Education 🎓
 ======
 - 2020.09 - Today <br>
-2nd-year M.S. at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Dr. [Chun Yuan](https://www.sigs.tsinghua.edu.cn/yc2/main.htm) and focus on Long-tailed Data Mining. <br>
+2nd-year M.S. at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by *Prof*. [Chun Yuan](https://www.sigs.tsinghua.edu.cn/yc2/main.htm) and focus on Long-tailed Data Mining. <br>
 GPA: **3.89**/4.00
 
 - 2017.07 - 2017.09 <br>
