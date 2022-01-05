@@ -8,6 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .flex-between {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .badge {
+    width: 70px;
+    height: 70px;
+  }
+</style>
+
 <h1 align="center"> Hello! 👋  I'm Zhengzhuo Xu (许正卓) </h1>
 
 <br />
@@ -30,17 +42,34 @@ Research Intern 💼
 
 Education 🎓
 ======
-- 2020.09 - Today <br>
-2nd-year M.S. at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by *Prof*. [Chun Yuan](https://www.sigs.tsinghua.edu.cn/yc2/main.htm) and focus on Long-tailed Data Mining. <br>
-GPA: **3.89**/4.00
+<div class="flex-between">
+  <div>
 
-- 2017.07 - 2017.09 <br>
+  - 2020.09 - Today <br>
+  2nd-year M.S. at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by *Prof*. [Chun Yuan](https://www.sigs.tsinghua.edu.cn/yc2/main.htm) and focus on Long-tailed Data Mining. <br>
+  GPA: **3.89**/4.00
+  </div>
+  <img class="badge" src="https://img2.baidu.com/it/u=2080085769,843387130&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500">
+</div>
+
+<div class="flex-between">
+  <div>
+
+  - 2017.07 - 2017.09 <br>
 Short-term exchange at [Oriel College](https://www.oriel.ox.ac.uk), [Oxford](https://www.ox.ac.uk/cn).
-  
-- 2016.09 - 2020.06 <br>
-Recieved the Bachelor degree of Electrical Engineering in [Qiming College](http://qiming.hust.edu.cn/), [EIC](http://ei.hust.edu.cn/), [HUST](https://www.hust.edu.cn/). <br>
-Weighted score: **88.84**/100 (Top **3**%)
+  </div>
+  <img class="badge" src="https://img2.baidu.com/it/u=2080085769,843387130&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500">
+</div>
 
+<div class="flex-between">
+  <div>
+
+  - 2016.09 - 2020.06 <br>
+  Recieved the Bachelor degree of Electrical Engineering in [Qiming College](http://qiming.hust.edu.cn/), [EIC](http://ei.hust.edu.cn/), [HUST](https://www.hust.edu.cn/). <br>
+  Weighted score: **88.84**/100 (Top **3**%)
+  </div>
+  <img class="badge" src="https://img2.baidu.com/it/u=2080085769,843387130&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500">
+</div>
 
 Publication 📄 
 ======
