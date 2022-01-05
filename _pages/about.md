@@ -43,31 +43,28 @@ Research Intern 💼
 Education 🎓
 ======
 <div class="flex-between">
-  <div>
-
-  - 2020.09 - Today <br>
-  2nd-year M.S. at [SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by *Prof*. [Chun Yuan](https://www.sigs.tsinghua.edu.cn/yc2/main.htm) and focus on Long-tailed Data Mining. <br>
-  GPA: **3.89**/4.00
-  </div>
+  <ul>
+  <li>2020.09 - Today </li>
+  2nd-year M.S. at <a href="https://www.sigs.tsinghua.edu.cn/">SIGS</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, supervised by <i>Prof</i>. <a href="https://www.sigs.tsinghua.edu.cn/yc2/main.htm">Chun Yuan</a> and focus on Long-tailed Data Mining. <br>
+  GPA: <b>3.89</b>/4.00
+  </ul>
   <img class="badge" src="https://img2.baidu.com/it/u=2080085769,843387130&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500">
 </div>
 
 <div class="flex-between">
-  <div>
-
-  - 2017.07 - 2017.09 <br>
-Short-term exchange at [Oriel College](https://www.oriel.ox.ac.uk), [Oxford](https://www.ox.ac.uk/cn).
-  </div>
+  <ul>
+  <li>2017.07 - 2017.09 </li>
+Short-term exchange at <a href="https://www.oriel.ox.ac.uk">Oriel College</a>, <a href="https://www.ox.ac.uk/cn">Oxford</a>.
+  </ul>
   <img class="badge" src="https://img2.baidu.com/it/u=2080085769,843387130&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500">
 </div>
 
 <div class="flex-between">
-  <div>
-
-  - 2016.09 - 2020.06 <br>
-  Recieved the Bachelor degree of Electrical Engineering in [Qiming College](http://qiming.hust.edu.cn/), [EIC](http://ei.hust.edu.cn/), [HUST](https://www.hust.edu.cn/). <br>
-  Weighted score: **88.84**/100 (Top **3**%)
-  </div>
+  <ul>
+  <li>2016.09 - 2020.06 </li>
+  Recieved the Bachelor degree of Electrical Engineering in <a href="http://qiming.hust.edu.cn/">Qiming College</a>, <a href="http://ei.hust.edu.cn/">EIC</a>, <a href="https://www.hust.edu.cn/">HUST</a>. <br>
+  Weighted score: <b>88.84</b>/100 (Top <b>3</b>%)
+  </ul>
   <img class="badge" src="https://img2.baidu.com/it/u=2080085769,843387130&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500">
 </div>
 
