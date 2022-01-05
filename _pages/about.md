@@ -48,7 +48,7 @@ Education 🎓
   2nd-year M.S. at <a href="https://www.sigs.tsinghua.edu.cn/">SIGS</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, supervised by <i>Prof</i>. <a href="https://www.sigs.tsinghua.edu.cn/yc2/main.htm">Chun Yuan</a> and focus on Long-tailed Data Mining. <br>
   GPA: <b>3.89</b>/4.00
   </ul>
-  <img class="badge" src="https://img2.baidu.com/it/u=2080085769,843387130&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500">
+  <img class="badge" src="https://zh.wikipedia.org/wiki/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6#/media/File:Tsinghua_University_Logo.svg?w=501&h=500">
 </div>
 
 <div class="flex-between">
