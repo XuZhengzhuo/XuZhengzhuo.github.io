@@ -80,16 +80,15 @@ Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
 
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
-IEEE Trans. on Multimedia *under review*, arXiv preprint, 2021. [[Paper](https://arxiv.org/abs/2112.02225)]
+IEEE Trans. on Multimedia *under review*, arXiv preprint. [[Paper](https://arxiv.org/abs/2112.02225)]
 
 - *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
 Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
-ICME 2022 *under review*, arXiv preprint, 2021. [[Paper](https://arxiv.org/abs/2102.03586)]
+ICME 2022 *under review*, arXiv preprint. [[Paper](https://arxiv.org/abs/2102.03586)]
 
 - *Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization* <br>
 Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
-arXiv preprint, 2021. [[Paper](https://arxiv.org/abs/2112.01335)]
-
+arXiv preprint. [[Paper](https://arxiv.org/abs/2112.01335)]
 
 - *Backscatter-assisted computation offloading for energy harvesting IoT devices via policy-based deep reinforcement learning* <br>
 Yutong Xie, **Zhengzhuo Xu**, Yuxing Zhong, Jing Xu, Shimin Gong, Yi Wang <br>
