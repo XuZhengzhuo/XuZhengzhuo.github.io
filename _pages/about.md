@@ -88,7 +88,7 @@ ICME 2022 *under review*, arXiv preprint. [[Paper](https://arxiv.org/abs/2102.03
 
 - *Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization* <br>
 Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
-arXiv preprint. [[Paper](https://arxiv.org/abs/2112.01335)]
+ECCV2022 *under review*, arXiv preprint. [[Paper](https://arxiv.org/abs/2112.01335)]
 
 - *Backscatter-assisted computation offloading for energy harvesting IoT devices via policy-based deep reinforcement learning* <br>
 Yutong Xie, **Zhengzhuo Xu**, Yuxing Zhong, Jing Xu, Shimin Gong, Yi Wang <br>
