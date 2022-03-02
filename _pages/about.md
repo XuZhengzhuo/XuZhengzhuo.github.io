@@ -62,7 +62,7 @@ Short-term exchange at <a href="https://www.oriel.ox.ac.uk">Oriel College</a>, <
 <div class="flex-between">
   <ul>
   <li>2016.09 - 2020.06 </li>
-  Recieved the Bachelor degree of Electrical Engineering in <a href="http://qiming.hust.edu.cn/">Qiming College</a>, <a href="http://ei.hust.edu.cn/">EIC</a>, <a href="https://www.hust.edu.cn/">HUST</a>. <br>
+  Receive the Bachelor degree of Electrical Engineering in <a href="http://qiming.hust.edu.cn/">Qiming College</a>, <a href="http://ei.hust.edu.cn/">EIC</a>, <a href="https://www.hust.edu.cn/">HUST</a>. <br>
   Weighted score: <b>88.84</b>/100 (Top <b>3</b>%)
   </ul>
   <img class="badge" src="../images/hust.png">
