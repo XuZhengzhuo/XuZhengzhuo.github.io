@@ -92,11 +92,11 @@ ECCV 2022 *under review*, arXiv preprint. [[Paper](https://arxiv.org/abs/2112.01
 
 - *Backscatter-assisted computation offloading for energy harvesting IoT devices via policy-based deep reinforcement learning* <br>
 Yutong Xie, **Zhengzhuo Xu**, Yuxing Zhong, Jing Xu, Shimin Gong, Yi Wang <br>
-IEEE/CIC **ICCC Workshops**, 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/8849964)]
+**IEEE/CIC ICCC Workshops**, 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/8849964)]
 
 - *Backscatter-assisted hybrid relaying strategy for wireless powered IoT communications* <br>
 Yutong Xie, **Zhengzhuo Xu**, Shimin Gong, Jing Xu, Dinh Thai Hoang, Dusit Niyato <br>
-IEEE **GLOBECOM**, 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/9013386)]
+**IEEE GLOBECOM**, 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/9013386)]
 
 - *Backscatter-aided hybrid data offloading for mobile edge computing via deep reinforcement learning* <br>
 Yutong Xie, **Zhengzhuo Xu**, Jing Xu, Shimin Gong, Yi Wang <br>
@@ -122,7 +122,7 @@ Projection 🔨
 ======
 - China Collegiate Computing Contest ([CCCC](http://www.appcontest.net/)) 2019. <br>
 Second prize in the **final**, [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] available at Apple Store.
-- Seed Cup Competition 2017. <br>
+- BeiBei Seed Cup Competition 2017. <br>
 Rank **11**/1000, Code on [[Github](https://github.com/wslwlm/SeedCup2019)]
 - Digital Signal Processing course design. <br>
 Electronic piano, Code on [[Github](https://github.com/byrrice/Matlab-Final-Project)]
