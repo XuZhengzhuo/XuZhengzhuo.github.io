@@ -31,7 +31,7 @@ I will graduate at *2023* 🙌 . My research interests 🔎 are in Computer Visi
 Yang Chaoyue bless me 🙏 ! 
 
 Contact me via  ✉️  <u>xuzhengzhuo@foxmail.com</u>.
-
+Here is my resume of [[English Version]](./files/resume/resume_xzz_en.pdf) and [[Chinese Version]](./files/resume/resume_xzz_cn.pdf)!
 
 Research Intern 💼
 ======
