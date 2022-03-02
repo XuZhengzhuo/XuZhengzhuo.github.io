@@ -107,7 +107,7 @@ Awards 🌟
 - Tsinghua Friend JiuJiang Scholarship (TOP 5%)
 - Excellent Students of QiMing College (TOP 1%)
 - HaiHang Scholarship (TOP 1%)
-- Outstanding Undergraduate Graduates of HUST (TOP 10%)
+- Outstanding Undergraduate Graduates of HUST (TOP 5%)
 - First Class Scholarship of HUST (3 times, TOP 10%)
 - New Student Scholarship of HUST (TOP 30%)
 
