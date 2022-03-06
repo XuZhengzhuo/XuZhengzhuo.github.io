@@ -79,13 +79,13 @@ Publication 📄
 Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
 **ICASSP**, 2022. [[Paper](https://arxiv.org/abs/2110.12978)] [[Github](https://github.com/czh-98/MoDeRNN)]
 
+- *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
+Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
+**ICME**, 2022. [[Paper](https://arxiv.org/abs/2102.03586)] [Code will be released soon]
+
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
 IEEE Trans. on Multimedia *under review*, arXiv preprint. [[Paper](https://arxiv.org/abs/2112.02225)]
-
-- *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
-Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
-ICME 2022 *under review*, arXiv preprint. [[Paper](https://arxiv.org/abs/2102.03586)]
 
 - *Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization* <br>
 Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
