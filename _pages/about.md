@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 <style>
   .flex-between {
     display: flex;
