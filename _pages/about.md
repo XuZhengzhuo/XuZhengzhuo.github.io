@@ -119,14 +119,14 @@ Awards 🌟
 - 一等奖学金 × 3 (TOP 10%)
 - 新生奖学金 (TOP 30%) -->
 
-Projection 🔨
+Project 🔨
 ======
 - China Collegiate Computing Contest ([CCCC](http://www.appcontest.net/)) 2019. <br>
 Second prize in the **final**, [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] available at Apple Store.
 - BeiBei Seed Cup Competition 2017. <br>
-Rank **11**/1000, Code on [[Github](https://github.com/wslwlm/SeedCup2019)]
+Rank **11**/1000, [[Github](https://github.com/Dedsec-Xu/Seed_Cup_TextCNN)]
 - Digital Signal Processing course design. <br>
-Electronic piano, Code on [[Github](https://github.com/byrrice/Matlab-Final-Project)]
+Electronic piano, [[Github](https://github.com/byrrice/Matlab-Final-Project)], [[Video](https://youtu.be/e310kDNNbSg?t=247)]
 
 Leadership 🔭 
 ======
