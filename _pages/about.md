@@ -122,19 +122,18 @@ Awards 🌟
 Project 🔨
 ======
 - China Collegiate Computing Contest ([CCCC](http://www.appcontest.net/)) 2019. <br>
-Second prize in the **final**, [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] available at Apple Store [[Present Video](https://youtu.be/ACqSiaio98s)]
-- RUBIK’S CUBE ROBOT design. <br>
-Automatic cube solving robot via visual recognization and stepper motor. [[Demo Video](https://youtu.be/lwa5qByJMJc)]
+Second prize in the **final** [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] available at Apple Store [[Present Video](https://youtu.be/ACqSiaio98s)]
+- RUBIK’S CUBE ROBOT design <br>
+Automatic cube solving robot via visual recognization and stepper motor [[Demo Video](https://youtu.be/lwa5qByJMJc)]
 - BeiBei Seed Cup Competition 2017. <br>
-Rank **11**/1000, [[Github](https://github.com/Dedsec-Xu/Seed_Cup_TextCNN)]
-- Music Visualizer Circut
-A hardware circuit which uses LEDS to visualize music (low, medium and high frequence) and a power amplifier using LM386. [[Demo Video](https://youtu.be/e310kDNNbSg)]
+Rank **11**/1000 [[Github](https://github.com/Dedsec-Xu/Seed_Cup_TextCNN)]
+- Music Visualizer Circut <br>
+A hardware circuit which uses LEDS to visualize music (low, medium and high frequence) and a power amplifier using LM386 [[Demo Video](https://youtu.be/e310kDNNbSg)]
 - Digital Signal Processing course design. <br>
-Electronic piano, [[Github](https://github.com/byrrice/Matlab-Final-Project)]
+Electronic piano [[Github](https://github.com/byrrice/Matlab-Final-Project)]
 
 Leadership 🔭 
 ======
 - Outstanding annual member of the branch committee for post-graduate from Dept. of SIGS, Tsinghua.
 - Commissary in charge of organization, the Party branch for post-graduate from the Dept. of SIGS, Tsinghua.
 - Person in charge the Dept. of Club, Students' Association Union of Huazhong University of Science and Technology.
-
