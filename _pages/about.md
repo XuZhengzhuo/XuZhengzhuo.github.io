@@ -122,7 +122,7 @@ Awards 🌟
 Project 🔨
 ======
 - China Collegiate Computing Contest ([CCCC](http://www.appcontest.net/)) 2019. <br>
-Second prize in the **final**, [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] available at Apple Store.
+Second prize in the **final**, [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] available at Apple Store [[Present Video](https://youtu.be/ACqSiaio98s)]
 - RUBIK’S CUBE ROBOT design. <br>
 Automatic cube solving robot via visual recognization and stepper motor. [[Demo Video](https://youtu.be/lwa5qByJMJc)]
 - BeiBei Seed Cup Competition 2017. <br>
