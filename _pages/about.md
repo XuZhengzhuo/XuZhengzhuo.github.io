@@ -83,13 +83,16 @@ Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
 Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
 **ICME**, 2022. [[Paper](https://arxiv.org/abs/2102.03586)] [Code will be released soon]
 
+- *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
+Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
+ArXiv preprint. [[Paper](https://arxiv.org/abs/2203.09729)] [[Page](https://www.realy3dface.com)]
+
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
-IEEE Trans. on Multimedia *under review*, arXiv preprint. [[Paper](https://arxiv.org/abs/2112.02225)]
+ArXiv preprint. [[Paper](https://arxiv.org/abs/2112.02225)]
 
 - *Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization* <br>
-Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
-ECCV 2022 *under review*, arXiv preprint. [[Paper](https://arxiv.org/abs/2112.01335)]
+ArXiv preprint. [[Paper](https://arxiv.org/abs/2112.01335)]
 
 - *Backscatter-assisted computation offloading for energy harvesting IoT devices via policy-based deep reinforcement learning* <br>
 Yutong Xie, **Zhengzhuo Xu**, Yuxing Zhong, Jing Xu, Shimin Gong, Yi Wang <br>
@@ -123,13 +126,13 @@ Project 🔨
 ======
 - China Collegiate Computing Contest ([CCCC](http://www.appcontest.net/)) 2019. <br>
 Second prize in the **final** [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] available at Apple Store [[Present Video](https://youtu.be/ACqSiaio98s)]
-- RUBIK’S CUBE ROBOT design <br>
+- Rubik’s Cube Robot Design. <br>
 Automatic cube solving robot via visual recognization and stepper motor [[Demo Video](https://youtu.be/lwa5qByJMJc)]
 - BeiBei Seed Cup Competition 2017. <br>
 Rank **11**/1000 [[Github](https://github.com/Dedsec-Xu/Seed_Cup_TextCNN)]
 - Music Visualizer Circut <br>
 A hardware circuit which uses LEDS to visualize music (low, medium and high frequence) and a power amplifier using LM386 [[Demo Video](https://youtu.be/e310kDNNbSg)]
-- Digital Signal Processing course design. <br>
+- Digital Signal Processing Course Design. <br>
 Electronic piano [[Github](https://github.com/byrrice/Matlab-Final-Project)]
 
 Leadership 🔭 
