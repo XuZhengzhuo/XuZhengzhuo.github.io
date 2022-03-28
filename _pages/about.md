@@ -73,11 +73,11 @@ Publication 📄
 ======
 - *Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective* <br>
 **Zhengzhuo Xu**\*, Zenghao Chai\*, Chun Yuan <br>
-**NeurIPS**, 2021. [[Paper](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Github](https://github.com/XuZhengzhuo/Prior-LT)]
+**NeurIPS**, 2021. [[Paper](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Code](https://github.com/XuZhengzhuo/Prior-LT)]
 
 - *MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning* <br>
 Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
-**ICASSP**, 2022. [[Paper](https://arxiv.org/abs/2110.12978)] [[Github](https://github.com/czh-98/MoDeRNN)]
+**ICASSP**, 2022. [[Paper](https://arxiv.org/abs/2110.12978)] [[Code](https://github.com/czh-98/MoDeRNN)]
 
 - *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
 Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
@@ -129,11 +129,11 @@ Second prize in the **final** [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E
 - Rubik’s Cube Robot Design. <br>
 Automatic cube solving robot via visual recognization and stepper motor [[Demo Video](https://youtu.be/lwa5qByJMJc)]
 - BeiBei Seed Cup Competition 2017. <br>
-Rank **11**/1000 [[Github](https://github.com/Dedsec-Xu/Seed_Cup_TextCNN)]
+Rank **11**/1000 [[Code](https://github.com/Dedsec-Xu/Seed_Cup_TextCNN)]
 - Music Visualizer Circut <br>
 A hardware circuit which uses LEDS to visualize music (low, medium and high frequence) and a power amplifier using LM386 [[Demo Video](https://youtu.be/e310kDNNbSg)]
 - Digital Signal Processing Course Design. <br>
-Electronic piano [[Github](https://github.com/byrrice/Matlab-Final-Project)]
+Electronic piano [[Code](https://github.com/byrrice/Matlab-Final-Project)]
 
 Leadership 🔭 
 ======
