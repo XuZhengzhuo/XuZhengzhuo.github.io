@@ -81,7 +81,7 @@ Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
 
 - *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
 Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
-**ICME**, 2022. [[Paper](https://arxiv.org/abs/2102.03586)] [Code will be released soon]
+**ICME**, 2022. [[Paper](https://arxiv.org/abs/2102.03586)] [[Code](https://github.com/czh-98/CMS-LSTM)]
 
 - *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
 Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
