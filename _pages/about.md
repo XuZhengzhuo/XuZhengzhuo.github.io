@@ -92,6 +92,7 @@ Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingy
 ArXiv preprint. [[Paper](https://arxiv.org/abs/2112.02225)]
 
 - *Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization* <br>
+- Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
 ArXiv preprint. [[Paper](https://arxiv.org/abs/2112.01335)]
 
 - *Backscatter-assisted computation offloading for energy harvesting IoT devices via policy-based deep reinforcement learning* <br>
