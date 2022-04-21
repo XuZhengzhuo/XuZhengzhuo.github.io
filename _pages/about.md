@@ -73,7 +73,7 @@ Publication 📄
 ======
 - *Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective* <br>
 **Zhengzhuo Xu**\*, Zenghao Chai\*, Chun Yuan <br>
-**NeurIPS**, 2021. [[Arxiv](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Code](https://github.com/XuZhengzhuo/Prior-LT)] [[PDF](./files/papers/Prior_LT.pdf)] [[Supplementary Material](./files/papers/Prior_Supplementary_Material.pdf))]
+**NeurIPS**, 2021. [[Arxiv](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Code](https://github.com/XuZhengzhuo/Prior-LT)] [[PDF](./files/papers/Prior_LT.pdf)] [[Supplementary Material](./files/papers/Prior_Supplementary_Material.pdf)]
 
 - *MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning* <br>
 Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
@@ -130,16 +130,17 @@ Project 🔨
 - China Collegiate Computing Contest ([CCCC](http://www.appcontest.net/)) 2019. <br>
 Second class prize in the **FINAL** [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] available at Apple Store [[Present Video](https://youtu.be/ACqSiaio98s)]
 - Rubik’s Cube Robot Design. <br>
-Automatic cube solving robot via visual recognization and stepper motor [[Demo Video](https://youtu.be/lwa5qByJMJc)]
+An automatic cube solving robot via visual recognization and stepper motor [[Demo Video](https://youtu.be/lwa5qByJMJc)]
 - BeiBei Seed Cup Competition 2017. <br>
 Rank **11**/1000 [[Code](https://github.com/Dedsec-Xu/Seed_Cup_TextCNN)]
 - Music Visualizer Circut <br>
-A hardware circuit which uses LEDS to visualize music (low, medium and high frequence) and a power amplifier using LM386 [[Demo Video](https://youtu.be/e310kDNNbSg)]
+A hardware circuit which uses LEDs and a power amplifier (LM386) to visualize music (low, medium and high frequence bandwidth) [[Demo Video](https://youtu.be/e310kDNNbSg)]
 - Digital Signal Processing Course Design. <br>
-Electronic piano [[Code](https://github.com/byrrice/Matlab-Final-Project)]
+A electronic piano simulator[[Code](https://github.com/byrrice/Matlab-Final-Project)]
 
 Leadership 🔭 
 ======
 - Outstanding annual member of the branch committee for post-graduate from Dept. of SIGS, Tsinghua.
 - Commissary in charge of organization, the Party branch for post-graduate from the Dept. of SIGS, Tsinghua.
 - Person in charge the Dept. of Club, Students' Association Union of Huazhong University of Science and Technology.
+
