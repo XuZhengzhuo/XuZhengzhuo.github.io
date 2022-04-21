@@ -73,39 +73,39 @@ Publication 📄
 ======
 - *Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective* <br>
 **Zhengzhuo Xu**\*, Zenghao Chai\*, Chun Yuan <br>
-**NeurIPS**, 2021. [[Paper](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Code](https://github.com/XuZhengzhuo/Prior-LT)]
+**NeurIPS**, 2021. [[Arxiv](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Code](https://github.com/XuZhengzhuo/Prior-LT)] [[PDF](./files/papers/Prior_LT.pdf)] [[Supplementary Material](./files/papers/Prior_Supplementary_Material.pdf))]
 
 - *MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning* <br>
 Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
-**ICASSP**, 2022. [[Paper](https://arxiv.org/abs/2110.12978)] [[Code](https://github.com/czh-98/MoDeRNN)]
+**ICASSP**, 2022. [[Arxiv](https://arxiv.org/abs/2110.12978)] [[Code](https://github.com/czh-98/MoDeRNN)] [[PDF](./files/papers/MoDeRNN.pdf)]
 
 - *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
 Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
-**ICME**, 2022. [[Paper](https://arxiv.org/abs/2102.03586)] [[Code](https://github.com/czh-98/CMS-LSTM)]
+**ICME**, 2022. [[Arxiv](https://arxiv.org/abs/2102.03586)] [[Code](https://github.com/czh-98/CMS-LSTM)] [[PDF](./files/papers/CMS-LSTM.pdf)]
 
 - *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
 Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
-ArXiv preprint. [[Paper](https://arxiv.org/abs/2203.09729)] [[Page](https://www.realy3dface.com)]
+ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2203.09729)] [[Page](https://www.realy3dface.com)] 
 
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
-ArXiv preprint. [[Paper](https://arxiv.org/abs/2112.02225)]
+ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2112.02225)] [[PDF](./files/papers/HHF.pdf)]
 
 - *Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization* <br>
 Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
-ArXiv preprint. [[Paper](https://arxiv.org/abs/2112.01335)]
+ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2112.01335)] [[PDF](./files/papers/SSCN.pdf)]
 
 - *Backscatter-assisted computation offloading for energy harvesting IoT devices via policy-based deep reinforcement learning* <br>
 Yutong Xie, **Zhengzhuo Xu**, Yuxing Zhong, Jing Xu, Shimin Gong, Yi Wang <br>
-**IEEE/CIC ICCC Workshops**, 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/8849964)]
+**IEEE/CIC ICCC Workshops**, 2019. [[IEEE](https://ieeexplore.ieee.org/abstract/document/8849964)] [[PDF](./files/papers/Backscatter_DDPG.pdf)]
 
 - *Backscatter-assisted hybrid relaying strategy for wireless powered IoT communications* <br>
 Yutong Xie, **Zhengzhuo Xu**, Shimin Gong, Jing Xu, Dinh Thai Hoang, Dusit Niyato <br>
-**IEEE GLOBECOM**, 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/9013386)]
+**IEEE GLOBECOM**, 2019. [[IEEE](https://ieeexplore.ieee.org/abstract/document/9013386)] [[PDF](./files/papers/Backscatter_Hybrid_Relaying.pdf)]
 
 - *Backscatter-aided hybrid data offloading for mobile edge computing via deep reinforcement learning* <br>
 Yutong Xie, **Zhengzhuo Xu**, Jing Xu, Shimin Gong, Yi Wang <br>
-**MLICOM**, 2019. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-32388-2_45)]
+**MLICOM**, 2019. [[Springer](https://link.springer.com/chapter/10.1007/978-3-030-32388-2_45)]
 
 Awards 🌟
 ======
