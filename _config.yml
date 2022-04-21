@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Home Page"
+title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Zhengzhuo Xu"
 description              : &description "personal description"
