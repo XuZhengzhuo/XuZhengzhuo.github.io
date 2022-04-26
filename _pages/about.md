@@ -85,7 +85,7 @@ Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
 
 - *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
 Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
-ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2203.09729)] [[Page](https://www.realy3dface.com)]
+ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2203.09729)] [[Page](https://www.realy3dface.com)] [[PDF](./files/papers/Realy.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material.pdf)]
 
 <!-- [[PDF](./files/papers/Realy.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material.pdf.pdf))] -->
 
