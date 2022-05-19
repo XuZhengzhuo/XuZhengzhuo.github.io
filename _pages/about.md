@@ -26,9 +26,11 @@ redirect_from:
 
 # About Me 
 
-I will graduate at *2023* 🙌 . My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>3D recognization</u> / <u>style transfer on 2D/3D</u>. I'm preparing to look for jobs 🧑‍💻 ~ 
+I will graduate at *2023* 🙌 . My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>3D recognization</u> / <u>style transfer on 2D/3D</u>.
 
 Yang Chaoyue bless me 🙏 ! 
+
+[Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,DM)
 
 Contact me via  ✉️  <u>xuzhengzhuo@foxmail.com</u>.
 
