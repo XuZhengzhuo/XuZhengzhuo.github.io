@@ -30,7 +30,7 @@ I will graduate at *2023* 🙌 . My research interests 🔎 are in Computer Visi
 
 Yang Chaoyue bless me 🙏 ! 
 
-[Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,DM)
+[[Conference Deadlines]](https://aideadlin.es/?sub=ML,CV,CG,DM) [[Long Tail Paper List]](https://github.com/XuZhengzhuo/Long-tailed-Visual-Recognition-Paper-List)
 
 Contact me via  ✉️  <u>xuzhengzhuo@foxmail.com</u>.
 
