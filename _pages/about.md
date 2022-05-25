@@ -89,7 +89,8 @@ Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
 Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
 ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2203.09729)] [[Page](https://www.realy3dface.com)] [[PDF](./files/papers/Realy1.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material1.pdf)]
 
-<!-- [[PDF](./files/papers/Realy.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material.pdf.pdf))] -->
+<!-- - *HyP2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval* <br>
+Chengyin Xu, Zenghao Chai, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang <br> -->
 
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
@@ -120,12 +121,6 @@ Awards 🌟
 - First Class Scholarship of HUST (3 times, TOP 10%)
 - New Student Scholarship of HUST (TOP 30%)
 
-<!-- - 清华之友 九江奖学金 (TOP 5%)
-- 启明学院特优生 (TOP 5%)
-- 华中科技大学本科优秀毕业生 (TOP 10%)
-- 海航奖学金 (TOP 1%)
-- 一等奖学金 × 3 (TOP 10%)
-- 新生奖学金 (TOP 30%) -->
 
 Project 🔨
 ======
