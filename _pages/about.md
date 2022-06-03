@@ -87,7 +87,9 @@ Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
 
 - *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
 Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
-ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2203.09729)] [[Page](https://www.realy3dface.com)] [[PDF](./files/papers/Realy1.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material1.pdf)]
+ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2203.09729)] 
+
+<!-- [[Page](https://www.realy3dface.com)] [[PDF](./files/papers/Realy1.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material1.pdf)] -->
 
 <!-- - *HyP2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval* <br>
 Chengyin Xu, Zenghao Chai, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang <br> -->
