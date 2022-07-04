@@ -38,7 +38,7 @@ Here is my resume of [[English Version]](../files/resume/resume_xzz_en.pdf) and 
 
 Research Intern 💼
 ======
-- 2021.07 - Today <br>
+- 2021.07 - 2022.07 <br>
 [Tencent AI lab](https://ai.tencent.com/ailab/zh/index/) supervised by *Dr*. [Linchao Bao](https://linchaobao.github.io/) and focus on 3D Reconstruction / Style Transfer.
 - 2019.12 - 2020.06 <br>
 [Ping An Tech](https://tech.pingan.com/) supervised by *Dr*. [Haiqin Yang](https://hqyang.github.io/) and focus on Data Mining.
@@ -73,21 +73,23 @@ Short-term exchange at <a href="https://www.oriel.ox.ac.uk">Oriel College</a>, <
 
 Publication 📄 
 ======
-- *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
-Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
-ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2203.09729)] 
-<!-- [[Page](https://www.realy3dface.com)] [[PDF](./files/papers/Realy1.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material1.pdf)] -->
-
-<!-- - *HyP2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval* <br>
-Chengyin Xu, Zenghao Chai, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang <br> -->
 
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
 ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2112.02225)] [[PDF](./files/papers/HHF.pdf)]
 
+- *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
+Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
+**ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2203.09729)] 
+<!-- [[Page](https://www.realy3dface.com)] [[PDF](./files/papers/Realy1.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material1.pdf)] -->
+
 - *Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization* <br>
 Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
-ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2112.01335)] [[PDF](./files/papers/SSCN.pdf)]
+**ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2112.01335)] [[PDF](./files/papers/SSCN.pdf)]
+
+- *HyP2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval* <br>
+Chengyin Xu, Zenghao Chai, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang <br>
+**ACM MM**, 2022.
 
 - *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
 Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
