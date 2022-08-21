@@ -24,19 +24,15 @@ redirect_from:
 
 <br />
 
-# About Me 
+# Recently
 
-I will graduate at *2023* 🙌 . My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>3D recognization</u> / <u>style transfer on 2D/3D</u>. I'm preparing to look for jobs 🧑‍💻 ~ 
+My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>3D recognization</u>. I am looking for a suitable internship. Contact me via  ✉️  <u>xuzhengzhuo@foxmail.com</u>. Here is my resume of [[English Version]](../files/resume/resume_xzz_en.pdf) and [[Chinese Version]](../files/resume/resume_xzz_cn.pdf)!
 
-Yang Chaoyue bless me 🙏 ! 
-
-Contact me via  ✉️  <u>xuzhengzhuo@foxmail.com</u>.
-
-Here is my resume of [[English Version]](../files/resume/resume_xzz_en.pdf) and [[Chinese Version]](../files/resume/resume_xzz_cn.pdf)!
+[[Conference Deadlines]](https://aideadlin.es/?sub=ML,CV,CG,DM) [[Long Tail Paper List]](https://github.com/XuZhengzhuo/Long-tailed-Visual-Recognition-Paper-List)
 
 Research Intern 💼
 ======
-- 2021.07 - Today <br>
+- 2021.07 - 2022.07 <br>
 [Tencent AI lab](https://ai.tencent.com/ailab/zh/index/) supervised by *Dr*. [Linchao Bao](https://linchaobao.github.io/) and focus on 3D Reconstruction / Style Transfer.
 - 2019.12 - 2020.06 <br>
 [Ping An Tech](https://tech.pingan.com/) supervised by *Dr*. [Haiqin Yang](https://hqyang.github.io/) and focus on Data Mining.
@@ -71,31 +67,35 @@ Short-term exchange at <a href="https://www.oriel.ox.ac.uk">Oriel College</a>, <
 
 Publication 📄 
 ======
-- *Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective* <br>
-**Zhengzhuo Xu**\*, Zenghao Chai\*, Chun Yuan <br>
-**NeurIPS**, 2021. [[Arxiv](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Code](https://github.com/XuZhengzhuo/Prior-LT)] [[PDF](./files/papers/Prior_LT.pdf)] [[Supplementary Material](./files/papers/Prior_Supplementary_Material.pdf)]
-
-- *MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning* <br>
-Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
-**ICASSP**, 2022. [[Arxiv](https://arxiv.org/abs/2110.12978)] [[Code](https://github.com/czh-98/MoDeRNN)] [[PDF](./files/papers/MoDeRNN.pdf)]
-
-- *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
-Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
-**ICME**, 2022. [[Arxiv](https://arxiv.org/abs/2102.03586)] [[Code](https://github.com/czh-98/CMS-LSTM)] [[PDF](./files/papers/CMS-LSTM.pdf)]
-
-- *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
-Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
-ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2203.09729)] [[Page](https://www.realy3dface.com)] [[PDF](./files/papers/Realy.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material.pdf)]
-
-<!-- [[PDF](./files/papers/Realy.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material.pdf.pdf))] -->
 
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
 ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2112.02225)] [[PDF](./files/papers/HHF.pdf)]
 
+- *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
+Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
+**ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2203.09729)] 
+<!-- [[Page](https://www.realy3dface.com)] [[PDF](./files/papers/Realy1.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material1.pdf)] -->
+
 - *Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization* <br>
 Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
-ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2112.01335)] [[PDF](./files/papers/SSCN.pdf)]
+**ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2112.01335)] [[PDF](./files/papers/SSCN.pdf)]
+
+- *HyP2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval* <br>
+Chengyin Xu, Zenghao Chai, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang <br>
+**ACM MM**, 2022.
+
+- *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
+Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
+**ICME**, 2022. [[Arxiv](https://arxiv.org/abs/2102.03586)] [[Code](https://github.com/czh-98/CMS-LSTM)] [[PDF](./files/papers/CMS-LSTM.pdf)]
+
+- *MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning* <br>
+Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
+**ICASSP**, 2022. [[Arxiv](https://arxiv.org/abs/2110.12978)] [[Code](https://github.com/czh-98/MoDeRNN)] [[PDF](./files/papers/MoDeRNN.pdf)]
+
+- *Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective* <br>
+**Zhengzhuo Xu**\*, Zenghao Chai\*, Chun Yuan <br>
+**NeurIPS**, 2021. [[Arxiv](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Code](https://github.com/XuZhengzhuo/Prior-LT)] [[PDF](./files/papers/Prior_LT.pdf)] [[Supplementary Material](./files/papers/Prior_Supplementary_Material.pdf)]
 
 - *Backscatter-assisted computation offloading for energy harvesting IoT devices via policy-based deep reinforcement learning* <br>
 Yutong Xie, **Zhengzhuo Xu**, Yuxing Zhong, Jing Xu, Shimin Gong, Yi Wang <br>
@@ -118,12 +118,6 @@ Awards 🌟
 - First Class Scholarship of HUST (3 times, TOP 10%)
 - New Student Scholarship of HUST (TOP 30%)
 
-<!-- - 清华之友 九江奖学金 (TOP 5%)
-- 启明学院特优生 (TOP 5%)
-- 华中科技大学本科优秀毕业生 (TOP 10%)
-- 海航奖学金 (TOP 1%)
-- 一等奖学金 × 3 (TOP 10%)
-- 新生奖学金 (TOP 30%) -->
 
 Project 🔨
 ======
