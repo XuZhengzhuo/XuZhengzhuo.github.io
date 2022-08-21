@@ -74,16 +74,15 @@ ArXiv preprint. [[Arxiv](https://arxiv.org/abs/2112.02225)] [[PDF](./files/paper
 
 - *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
 Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
-**ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2203.09729)] 
-<!-- [[Page](https://www.realy3dface.com)] [[PDF](./files/papers/Realy1.pdf)] [[Supplementary Material](./files/papers/Realy_Supplementary_Material1.pdf)] -->
+**ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2203.09729)] [[Page](https://www.realy3dface.com/)] [[Code](https://github.com/czh-98/REALY)] [[PDF](./files/papers/Realy.pdf)]
 
 - *Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization* <br>
 Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
-**ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2112.01335)] [[PDF](./files/papers/SSCN.pdf)]
+**ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2112.01335)] [[Code](https://github.com/bbaaii/SSC-Net)] [[PDF](./files/papers/SSCN.pdf)] 
 
 - *HyP2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval* <br>
 Chengyin Xu, Zenghao Chai, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang <br>
-**ACM MM**, 2022.
+**ACM MM**, 2022. [[Arxiv](https://arxiv.org/abs/2208.06866)] [[Code](https://github.com/JerryXu0129/HyP2-Loss/)] [[PDF](./files/papers/Hpy_loss.pdf)] 
 
 - *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
 Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
