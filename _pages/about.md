@@ -80,7 +80,7 @@ Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe
 Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
 **ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2112.01335)] [[Code](https://github.com/bbaaii/SSC-Net)] [[PDF](./files/papers/SSCN.pdf)] 
 
-- *HyP2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval* <br>
+- *HyP2 Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval* <br>
 Chengyin Xu, Zenghao Chai, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang <br>
 **ACM MM**, 2022. [[Arxiv](https://arxiv.org/abs/2208.06866)] [[Code](https://github.com/JerryXu0129/HyP2-Loss/)] [[PDF](./files/papers/Hpy_loss.pdf)] 
 
