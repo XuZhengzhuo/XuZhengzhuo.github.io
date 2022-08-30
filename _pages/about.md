@@ -108,6 +108,17 @@ Yutong Xie, **Zhengzhuo Xu**, Shimin Gong, Jing Xu, Dinh Thai Hoang, Dusit Niyat
 Yutong Xie, **Zhengzhuo Xu**, Jing Xu, Shimin Gong, Yi Wang <br>
 **MLICOM**, 2019. [[Springer](https://link.springer.com/chapter/10.1007/978-3-030-32388-2_45)]
 
+
+Patent 🧾
+======
+- A Lightweight Fine-grained Spatiotemporal Predictive Method and System. <br>
+Chun Yuan, Zenghao Chai, **Zhengzhuo Xu**. <br>
+Invention patent, CN114445463A.
+
+- A method for obtaining interpretability parameters of deep learning models. <br>
+**Zhengzhuo Xu**, Haiqin Yang. <br>
+Invention patent, CN112052957A.
+
 Awards 🌟
 ======
 - Tsinghua Friend JiuJiang Scholarship (TOP 5%)
