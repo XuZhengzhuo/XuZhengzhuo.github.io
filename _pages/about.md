@@ -26,7 +26,7 @@ redirect_from:
 
 # Recently
 
-My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>3D recognization</u>. I am looking for a suitable internship. Contact me via  ✉️  <u>xuzhengzhuo@foxmail.com</u>. Here is my resume of [[English Version]](../files/resume/resume_xzz_en.pdf) and [[Chinese Version]](../files/resume/resume_xzz_cn.pdf)!
+My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>3D recognization</u>. I am looking for a suitable internship. Contact me via  ✉️  <u>xzzthu@gmail.com</u>. Here is my resume of [[English Version]](../files/resume/resume_xzz_en.pdf) and [[Chinese Version]](../files/resume/resume_xzz_cn.pdf)!
 
 [[Conference Deadlines]](https://aideadlin.es/?sub=ML,CV,CG,DM) [[Long Tail Paper List]](https://github.com/XuZhengzhuo/Long-tailed-Visual-Recognition-Paper-List)
 
