@@ -115,7 +115,7 @@ Patent 🧾
 Chun Yuan, Zenghao Chai, **Zhengzhuo Xu**. <br>
 Invention patent, CN114445463A.
 
-- A method for obtaining interpretability parameters of deep learning models. <br>
+- A Method for Obtaining Interpretability Parameters of Deep Learning Models. <br>
 **Zhengzhuo Xu**, Haiqin Yang. <br>
 Invention patent, CN112052957A.
 
