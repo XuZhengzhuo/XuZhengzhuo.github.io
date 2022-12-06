@@ -26,9 +26,7 @@ redirect_from:
 
 # Recently
 
-My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>3D recognization</u>. I am looking for a suitable internship. Contact me via  ✉️  <u>xzzthu@gmail.com</u>. Here is my resume of [[English Version]](../files/resume/resume_xzz_en.pdf) and [[Chinese Version]](../files/resume/resume_xzz_cn.pdf)!
-
-[[Conference Deadlines]](https://aideadlin.es/?sub=ML,CV,CG,DM) [[Long Tail Paper List]](https://github.com/XuZhengzhuo/Long-tailed-Visual-Recognition-Paper-List)
+My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>3D recognization</u>. Contact me via  ✉️  <u>xzzthu@gmail.com</u>. Here is my resume of [[English Version]](../files/resume/resume_xzz_en.pdf) and [[Chinese Version]](../files/resume/resume_xzz_cn.pdf)!
 
 Research Intern 💼
 ======
@@ -83,7 +81,7 @@ Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <
 **ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2112.01335)] [[Code](https://github.com/bbaaii/SSC-Net)] [[PDF](./files/papers/SSCN.pdf)] 
 
 - *HyP2 Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval* <br>
-Chengyin Xu, Zenghao Chai, Zhengzhuo Xu, Chun Yuan, Yanbo Fan, Jue Wang <br>
+Chengyin Xu, Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan, Yanbo Fan, Jue Wang <br>
 **ACM MM**, 2022. [[Arxiv](https://arxiv.org/abs/2208.06866)] [[Code](https://github.com/JerryXu0129/HyP2-Loss/)] [[PDF](./files/papers/Hpy_loss.pdf)] 
 
 - *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
