@@ -70,7 +70,7 @@ Publication 📄
 
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
-IEEE TMM. [[Arxiv](https://arxiv.org/abs/2112.02225)] [[Code](https://github.com/JerryXu0129/HHF)]
+**IEEE TMM**. [[Arxiv](https://arxiv.org/abs/2112.02225)] [[IEEE](https://ieeexplore.ieee.org/document/9953581)] [[Code](https://github.com/JerryXu0129/HHF)]
 
 - *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
 Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
