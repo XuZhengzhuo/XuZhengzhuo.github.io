@@ -26,7 +26,9 @@ redirect_from:
 
 # Recently
 
-My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>3D recognization</u>. Contact me via  ✉️  <u>xzzthu@gmail.com</u>. Here is my resume of [[English Version]](../files/resume/resume_xzz_en.pdf) and [[Chinese Version]](../files/resume/resume_xzz_cn.pdf)!
+My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>3D recognization</u>. Contact me via  ✉️  <u>xzzthu@gmail.com</u>. 
+
+<!-- Here is my resume of [[English Version]](../files/resume/resume_xzz_en.pdf) and [[Chinese Version]](../files/resume/resume_xzz_cn.pdf)! -->
 
 Research Intern 💼
 ======
@@ -67,6 +69,13 @@ Short-term exchange at <a href="https://www.oriel.ox.ac.uk">Oriel College</a>, <
 
 Publication 📄 
 ======
+- *Learning Imbalanced Data with Vision Transformers* <br>
+**Zhengzhuo Xu**, Ruikang Liu, Shuo Yang, Zenghao Chai, Chun Yuan <br>
+**CVPR**, 2023. [[Arxiv](https://arxiv.org/abs/2212.02015)] [[Code](https://github.com/XuZhengzhuo/LiVT)] [[PDF](./files/papers/LiVT.pdf)]
+
+- *Rethink Long-tailed Recognition with Vision Transforms* <br>
+**Zhengzhuo Xu**\*, Shuo Yang\*, Xingjun Wang, Chun Yuan <br>
+**ICASSP**， 2023. [Arxiv to release] [Code to release] [[PDF](./files/papers/PDC.pdf)]
 
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
