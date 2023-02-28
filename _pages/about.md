@@ -75,7 +75,7 @@ Publication 📄
 
 - *Rethink Long-tailed Recognition with Vision Transforms* <br>
 **Zhengzhuo Xu**\*, Shuo Yang\*, Xingjun Wang, Chun Yuan <br>
-**ICASSP**， 2023. [Arxiv to release] [Code to release] [[PDF](./files/papers/PDC.pdf)]
+**ICASSP**，2023. [Arxiv to release] [Code to release] [[PDF](./files/papers/PDC.pdf)]
 
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
