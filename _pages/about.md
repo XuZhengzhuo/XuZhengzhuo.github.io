@@ -20,7 +20,7 @@ redirect_from:
   }
 </style>
 
-<h1 align="center"> Hello! 👋  I'm Zhengzhuo Xu (许正卓) </h1>
+<h1 align="center"> Hello! 👋  I'm Zhengzhuo Xu </h1>
 
 <br />
 
