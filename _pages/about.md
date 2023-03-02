@@ -33,7 +33,7 @@ My research interests 🔎 are in Computer Vision, including but not limited to 
 Research Intern 💼
 ======
 - 2022.11 - Now <br>
-[IDEA](https://idea.edu.cn/) supervised by *Dr*. [Haiqin Yang](https://hqyang.github.io/) and focus on Long-Tailed Recognition.
+[IDEA](https://idea.edu.cn/) supervised by *Dr*. [Haiqin Yang](https://hqyang.github.io/) and focus on Long-Tailed Recognition and Unsupervised Visual Pretraining.
 - 2021.07 - 2022.07 <br>
 [Tencent AI lab](https://ai.tencent.com/ailab/zh/index/) supervised by *Dr*. [Linchao Bao](https://linchaobao.github.io/) and focus on 3D Reconstruction / Style Transfer.
 - 2019.12 - 2020.06 <br>
