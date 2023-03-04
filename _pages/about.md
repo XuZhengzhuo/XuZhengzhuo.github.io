@@ -120,6 +120,10 @@ Yutong Xie, **Zhengzhuo Xu**, Jing Xu, Shimin Gong, Yi Wang <br>
 
 Patent 🧾
 ======
+- Retrieval Method, Device and Equipment and Computer Readable Storage Medium. <br>
+Chengyin Xu, Zenghao Chai, Zhengzhuo Xu, Yanbo Fan.
+Invention patent, CN115146143A
+
 - A Lightweight Fine-grained Spatiotemporal Predictive Method and System. <br>
 Chun Yuan, Zenghao Chai, **Zhengzhuo Xu**. <br>
 Invention patent, CN114445463A.
