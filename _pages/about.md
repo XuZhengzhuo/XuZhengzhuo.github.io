@@ -26,7 +26,7 @@ redirect_from:
 
 # Recently
 
-My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>unsupervised pretraining</u> / <u>multi-modality</u>. Contact me via  ✉️  <u>xzzthu@gmail.com</u>. 
+My research interests 🔎 are in Computer Vision, including but not limited to <u>imbalanced data learning</u> / <u>masked image modeling</u> / <u>multi-modality</u>. Contact me via  ✉️  <u>xzzthu@gmail.com</u>. 
 
 <!-- Here is my resume of [[English Version]](../files/resume/resume_xzz_en.pdf) and [[Chinese Version]](../files/resume/resume_xzz_cn.pdf)! -->
 
