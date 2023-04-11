@@ -44,7 +44,7 @@ Education 🎓
 <div class="flex-between">
   <ul>
   <li>2020.09 - Today </li>
-  Ph.D Candidate at <a href="https://www.sigs.tsinghua.edu.cn/">SIGS</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, supervised by <i>Prof</i>. <a href="https://www.sigs.tsinghua.edu.cn/yc2/main.htm">Chun Yuan</a> and focus on Long-tailed Data Mining. <br>
+  Ph.D Candidate (2023.09) at <a href="https://www.sigs.tsinghua.edu.cn/">SIGS</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, supervised by <i>Prof</i>. <a href="https://www.sigs.tsinghua.edu.cn/yc2/main.htm">Chun Yuan</a> and focus on Long-tailed Data Mining. <br>
   GPA: <b>3.89</b>/4.00
   </ul>
   <img class="badge" src="../images/tsinghua.png">
