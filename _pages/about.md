@@ -73,9 +73,9 @@ Publication 📄
 **Zhengzhuo Xu**, Ruikang Liu, Shuo Yang, Zenghao Chai, Chun Yuan <br>
 **CVPR**, 2023. [[Arxiv](https://arxiv.org/abs/2212.02015)] [[Code](https://github.com/XuZhengzhuo/LiVT)] [[PDF](./files/papers/LiVT.pdf)]
 
-- *Rethink Long-tailed Recognition with Vision Transforms* <br>
+- *Rethink Long-tailed Recognition with Vision Transformers* <br>
 **Zhengzhuo Xu**\*, Shuo Yang\*, Xingjun Wang, Chun Yuan <br>
-**ICASSP**，2023. [[Arxiv](https://arxiv.org/abs/2302.14284)] [Code to release] [[PDF](./files/papers/PDC.pdf)]
+**ICASSP**，2023. [[Arxiv](https://arxiv.org/abs/2302.14284)] [[Code](https://github.com/XuZhengzhuo/PDC)] [[PDF](./files/papers/PDC.pdf)]
 
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
