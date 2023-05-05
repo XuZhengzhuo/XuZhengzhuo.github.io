@@ -71,51 +71,111 @@ Publication 📄
 ======
 - *Learning Imbalanced Data with Vision Transformers* <br>
 **Zhengzhuo Xu**, Ruikang Liu, Shuo Yang, Zenghao Chai, Chun Yuan <br>
-**CVPR**, 2023. [[Arxiv](https://arxiv.org/abs/2212.02015)] [[Code](https://github.com/XuZhengzhuo/LiVT)] [[PDF](./files/papers/LiVT.pdf)]
+**CVPR**, 2023.
+<a href="https://arxiv.org/abs/2212.02015" class="click_button"><img src="../images/arxiv.png">Arxiv</a>
+<a href="https://github.com/XuZhengzhuo/LiVT" class="click_button"><img src="../images/code.png">Code</a> 
+<a href="./files/papers/LiVT.pdf" class="click_button"><img src="../images/pdf.png">PDF</a>
+
+
+<!-- [Arxiv](https://arxiv.org/abs/2212.02015) [[Code](https://github.com/XuZhengzhuo/LiVT)] [[PDF](./files/papers/LiVT.pdf)] -->
 
 - *Rethink Long-tailed Recognition with Vision Transformers* <br>
 **Zhengzhuo Xu**\*, Shuo Yang\*, Xingjun Wang, Chun Yuan <br>
-**ICASSP**，2023. [[Arxiv](https://arxiv.org/abs/2302.14284)] [[Code](https://github.com/XuZhengzhuo/PDC)] [[PDF](./files/papers/PDC.pdf)]
+**ICASSP**，2023.
+<a href="https://arxiv.org/abs/2302.14284" class="click_button"><img src="../images/arxiv.png">Arxiv</a>
+<a href="https://github.com/XuZhengzhuo/PDC" class="click_button"><img src="../images/code.png">Code</a>
+<a href="./files/papers/PDC.pdf" class="click_button"><img src="../images/pdf.png">PDF</a>
+
+<!-- [[Arxiv](https://arxiv.org/abs/2302.14284)] [[Code](https://github.com/XuZhengzhuo/PDC)] [[PDF](./files/papers/PDC.pdf)] -->
 
 - *HHF: Hashing-guided Hinge Function for Deep Hashing Retrieval* <br>
 Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingyu Yang, Chun Yuan <br>
-**IEEE TMM**. [[Arxiv](https://arxiv.org/abs/2112.02225)] [[IEEE](https://ieeexplore.ieee.org/document/9953581)] [[Code](https://github.com/JerryXu0129/HHF)]
+**IEEE TMM**.
+<a href="https://arxiv.org/abs/2112.02225" class="click_button"><img src="../images/arxiv.png">Arxiv</a>
+<a href="https://ieeexplore.ieee.org/document/9953581" class="click_button"><img src="../images/ieee.jpeg">IEEE</a>
+<a href="https://github.com/JerryXu0129/HHF" class="click_button"><img src="../images/code.png">Code</a>
+
+<!-- [[Arxiv](https://arxiv.org/abs/2112.02225)] [[IEEE](https://ieeexplore.ieee.org/document/9953581)] [[Code](https://github.com/JerryXu0129/HHF)] -->
 
 - *REALY: Rethinking the Evaluation of 3D Face Reconstruction* <br>
 Zenghao Chai\*, Haoxian Zhang\*, Jing Ren, Di Kang, **Zhengzhuo Xu**, Xuefei Zhe, Chun Yuan, Linchao Bao <br>
-**ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2203.09729)] [[Page](https://www.realy3dface.com/)] [[Code](https://github.com/czh-98/REALY)] [[PDF](./files/papers/Realy.pdf)]
+**ECCV**, 2022.
+<a href="https://arxiv.org/abs/2203.09729" class="click_button"><img src="../images/arxiv.png">Arxiv</a>
+<a href="https://www.realy3dface.com/" class="click_button"><img src="../images/page.png">Page</a>
+<a href="https://github.com/czh-98/REALY" class="click_button"><img src="../images/code.png">Code</a>
+<a href="./files/papers/Realy.pdf" class="click_button"><img src="../images/pdf.png">PDF</a>
+
+<!-- [[Arxiv](https://arxiv.org/abs/2203.09729)] [[Page](https://www.realy3dface.com/)] [[Code](https://github.com/czh-98/REALY)] [[PDF](./files/papers/Realy.pdf)] -->
 
 - *Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization* <br>
 Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, **Zhengzhuo Xu**, Chun Yuan <br>
-**ECCV**, 2022. [[Arxiv](https://arxiv.org/abs/2112.01335)] [[Code](https://github.com/bbaaii/SSC-Net)] [[PDF](./files/papers/SSCN.pdf)] 
+**ECCV**, 2022.
+<a href="https://arxiv.org/abs/2112.01335" class="click_button"><img src="../images/arxiv.png">Arxiv</a>
+<a href="https://github.com/bbaaii/SSC-Net" class="click_button"><img src="../images/code.png">Code</a>
+<a href="./files/papers/SSCN.pdf" class="click_button"><img src="../images/pdf.png">PDF</a>
+
+<!-- [[Arxiv](https://arxiv.org/abs/2112.01335)] [[Code](https://github.com/bbaaii/SSC-Net)] [[PDF](./files/papers/SSCN.pdf)]  -->
 
 - *HyP2 Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval* <br>
 Chengyin Xu, Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan, Yanbo Fan, Jue Wang <br>
-**ACM MM**, 2022. [[Arxiv](https://arxiv.org/abs/2208.06866)] [[Code](https://github.com/JerryXu0129/HyP2-Loss/)] [[PDF](./files/papers/Hpy_loss.pdf)] 
+**ACM MM**, 2022.
+<a href="https://arxiv.org/abs/2208.06866" class="click_button"><img src="../images/arxiv.png">Arxiv</a>
+<a href="https://github.com/JerryXu0129/HyP2-Loss/" class="click_button"><img src="../images/code.png">Code</a>
+<a href="./files/papers/Hpy_loss.pdf" class="click_button"><img src="../images/pdf.png">PDF</a>
+
+<!-- [[Arxiv](https://arxiv.org/abs/2208.06866)] [[Code](https://github.com/JerryXu0129/HyP2-Loss/)] [[PDF](./files/papers/Hpy_loss.pdf)]  -->
 
 - *CMS-LSTM: Context Embedding and Multi-Scale Spatiotemporal Expression LSTM for Predictive Learning* <br>
 Zenghao Chai, **Zhengzhuo Xu**, Yunpeng Bai, Zhihui Lin, Chun Yuan <br>
-**ICME**, 2022. [[Arxiv](https://arxiv.org/abs/2102.03586)] [[Code](https://github.com/czh-98/CMS-LSTM)] [[PDF](./files/papers/CMS-LSTM.pdf)]
+**ICME**, 2022.
+<a href="https://arxiv.org/abs/2102.03586" class="click_button"><img src="../images/arxiv.png">Arxiv</a>
+<a href="https://github.com/czh-98/CMS-LSTM" class="click_button"><img src="../images/code.png">Code</a>
+<a href="./files/papers/CMS-LSTM.pdf" class="click_button"><img src="../images/pdf.png">PDF</a>
+
+<!-- [[Arxiv](https://arxiv.org/abs/2102.03586)] [[Code](https://github.com/czh-98/CMS-LSTM)] [[PDF](./files/papers/CMS-LSTM.pdf)] -->
 
 - *MoDeRNN: Towards Fine-grained Motion Details for Spatiotemporal Predictive Learning* <br>
 Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
-**ICASSP**, 2022. [[Arxiv](https://arxiv.org/abs/2110.12978)] [[Code](https://github.com/czh-98/MoDeRNN)] [[PDF](./files/papers/MoDeRNN.pdf)]
+**ICASSP**, 2022.
+<a href="https://arxiv.org/abs/2110.12978" class="click_button"><img src="../images/arxiv.png">Arxiv</a>
+<a href="https://github.com/czh-98/MoDeRNN" class="click_button"><img src="../images/code.png">Code</a>
+<a href="./files/papers/MoDeRNN.pdf" class="click_button"><img src="../images/pdf.png">PDF</a>
+
+<!-- [[Arxiv](https://arxiv.org/abs/2110.12978)] [[Code](https://github.com/czh-98/MoDeRNN)] [[PDF](./files/papers/MoDeRNN.pdf)] -->
 
 - *Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective* <br>
 **Zhengzhuo Xu**\*, Zenghao Chai\*, Chun Yuan <br>
-**NeurIPS**, 2021. [[Arxiv](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Code](https://github.com/XuZhengzhuo/Prior-LT)] [[PDF](./files/papers/Prior_LT.pdf)] [[Supplementary Material](./files/papers/Prior_Supplementary_Material.pdf)]
+**NeurIPS**, 2021.
+<a href="https://arxiv.org/abs/2111.03874" class="click_button"><img src="../images/arxiv.png">Arxiv</a>
+<a href="https://openreview.net/forum?id=vqzAfN-BoA_" class="click_button"><img src="../images/openreview.png">OpenReview</a>
+<a href="https://github.com/XuZhengzhuo/Prior-LT" class="click_button"><img src="../images/code.png">Code</a>
+<a href="./files/papers/Prior_LT.pdf" class="click_button"><img src="../images/pdf.png">PDF</a>
+<a href="./files/papers/Prior_Supplementary_Material.pdf" class="click_button">📄 Supplementary Material</a>
+
+<!-- [[Arxiv](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Code](https://github.com/XuZhengzhuo/Prior-LT)] [[PDF](./files/papers/Prior_LT.pdf)] [[Supplementary Material](./files/papers/Prior_Supplementary_Material.pdf)] -->
 
 - *Backscatter-assisted computation offloading for energy harvesting IoT devices via policy-based deep reinforcement learning* <br>
 Yutong Xie, **Zhengzhuo Xu**, Yuxing Zhong, Jing Xu, Shimin Gong, Yi Wang <br>
-**IEEE/CIC ICCC Workshops**, 2019. [[IEEE](https://ieeexplore.ieee.org/abstract/document/8849964)] [[PDF](./files/papers/Backscatter_DDPG.pdf)]
+**IEEE/CIC ICCC Workshops**, 2019.
+<a href="https://ieeexplore.ieee.org/abstract/document/8849964" class="click_button"><img src="../images/ieee.jpeg">IEEE</a>
+<a href="./files/papers/Backscatter_DDPG.pdf" class="click_button"><img src="../images/pdf.png">PDF</a>
+
+<!-- [[IEEE](https://ieeexplore.ieee.org/abstract/document/8849964)] [[PDF](./files/papers/Backscatter_DDPG.pdf)] -->
 
 - *Backscatter-assisted hybrid relaying strategy for wireless powered IoT communications* <br>
 Yutong Xie, **Zhengzhuo Xu**, Shimin Gong, Jing Xu, Dinh Thai Hoang, Dusit Niyato <br>
-**IEEE GLOBECOM**, 2019. [[IEEE](https://ieeexplore.ieee.org/abstract/document/9013386)] [[PDF](./files/papers/Backscatter_Hybrid_Relaying.pdf)]
+**IEEE GLOBECOM**, 2019.
+<a href="https://ieeexplore.ieee.org/abstract/document/9013386" class="click_button"><img src="../images/ieee.jpeg">IEEE</a>
+<a href="./files/papers/Backscatter_Hybrid_Relaying.pdf" class="click_button"><img src="../images/pdf.png">PDF</a>
+
+<!-- [[IEEE](https://ieeexplore.ieee.org/abstract/document/9013386)] [[PDF](./files/papers/Backscatter_Hybrid_Relaying.pdf)] -->
 
 - *Backscatter-aided hybrid data offloading for mobile edge computing via deep reinforcement learning* <br>
 Yutong Xie, **Zhengzhuo Xu**, Jing Xu, Shimin Gong, Yi Wang <br>
-**MLICOM**, 2019. [[Springer](https://link.springer.com/chapter/10.1007/978-3-030-32388-2_45)]
+**MLICOM**, 2019.
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-32388-2_45" class="click_button"><img src="../images/springer.jpeg">Springer</a>
+
+<!-- [[Springer](https://link.springer.com/chapter/10.1007/978-3-030-32388-2_45)] -->
 
 
 Patent 🧾
@@ -142,7 +202,7 @@ Awards 🌟
 - New Student Scholarship of HUST (TOP 30%)
 
 
-Project 🔨
+<!-- Project 🔨
 ======
 - China Collegiate Computing Contest ([CCCC](http://www.appcontest.net/)) 2019. <br>
 Second class prize in the **FINAL** [[App](https://appsuke.com/cn/%E8%A7%86%E5%94%B1%E8%BE%BE%E4%BA%BA/)] available at Apple Store [[Present Video](https://youtu.be/ACqSiaio98s)]
@@ -159,5 +219,5 @@ Leadership 🔭
 ======
 - Outstanding annual member of the branch committee for post-graduate from Dept. of SIGS, Tsinghua.
 - Commissary in charge of organization, the Party branch for post-graduate from the Dept. of SIGS, Tsinghua.
-- Person in charge the Dept. of Club, Students' Association Union of Huazhong University of Science and Technology.
+- Person in charge the Dept. of Club, Students' Association Union of Huazhong University of Science and Technology. -->
 
