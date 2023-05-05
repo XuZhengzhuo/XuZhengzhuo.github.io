@@ -167,7 +167,7 @@ Zenghao Chai, **Zhengzhuo Xu**, Chun Yuan <br>
 <a href="https://openreview.net/forum?id=vqzAfN-BoA_" class="click_button"><img src="../images/icon/openreview.png">OpenReview</a>
 <a href="https://github.com/XuZhengzhuo/Prior-LT" class="click_button"><img src="../images/icon/code.png">Code</a>
 <a href="./files/papers/Prior_LT.pdf" class="click_button"><img src="../images/icon/pdf.png">PDF</a>
-<a href="./files/papers/Prior_Supplementary_Material.pdf" class="click_button">< img src="" style="width: 0;margin-left: -4px;">📄 Supplementary Material</a>
+<a href="./files/papers/Prior_Supplementary_Material.pdf" class="click_button"><img src="" style="width: 0;margin-left: -4px;">📄 Supplementary Material</a>
   
 <!-- [[Arxiv](https://arxiv.org/abs/2111.03874)] [[OpenReview](https://openreview.net/forum?id=vqzAfN-BoA_)] [[Code](https://github.com/XuZhengzhuo/Prior-LT)] [[PDF](./files/papers/Prior_LT.pdf)] [[Supplementary Material](./files/papers/Prior_Supplementary_Material.pdf)] -->
 
