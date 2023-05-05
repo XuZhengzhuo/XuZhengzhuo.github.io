@@ -18,9 +18,26 @@ redirect_from:
     width: 70px;
     height: 70px;
   }
+  .click_button {
+    padding: 2px 8px;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-decoration: none !important;
+    font-size: 14px;
+  }
+  .click_button > img {
+    display: block;
+    width: 16px;
+    height: 16px;
+    margin-right: 4px;
+  }
 </style>
 
-<h1 align="center"> Hello! 👋  I'm Zhengzhuo Xu </h1>
+<h1 align="center"> 👋  Zhengzhuo Xu </h1>
 
 <br />
 
