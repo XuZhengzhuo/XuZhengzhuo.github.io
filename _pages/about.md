@@ -86,6 +86,13 @@ Short-term exchange at <a href="https://www.oriel.ox.ac.uk">Oriel College</a>, <
 
 Publication 📄 
 ======
+- *Towards Effective Collaborative Learning in Long-Tailed Recognition* <br>
+**Zhengzhuo Xu**, Zenghao Chai, Chengyin Xu, Chun Yuan, Haiqin Yang <br>
+Arxiv preprint.
+<a href="https://arxiv.org/abs/2305.03378" class="click_button"><img src="../images/icon/arxiv.png">Arxiv</a>
+<a href="" class="click_button"><img src="../images/icon/code.png">Code to release</a> 
+<a href="./files/papers/ECL.pdf" class="click_button"><img src="../images/icon/pdf.png">PDF</a>
+
 - *Learning Imbalanced Data with Vision Transformers* <br>
 **Zhengzhuo Xu**, Ruikang Liu, Shuo Yang, Zenghao Chai, Chun Yuan <br>
 **CVPR**, 2023.
