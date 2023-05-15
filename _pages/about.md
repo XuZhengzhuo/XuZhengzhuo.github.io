@@ -118,6 +118,7 @@ Chengyin Xu\*, **Zhengzhuo Xu**\*, Zenghao Chai\*, Hongjia Li, Qiruyi Zuo, Lingy
 <a href="https://arxiv.org/abs/2112.02225" class="click_button"><img src="../images/icon/arxiv.png">Arxiv</a>
 <a href="https://ieeexplore.ieee.org/document/9953581" class="click_button"><img src="../images/icon/ieee.jpeg">IEEE</a>
 <a href="https://github.com/JerryXu0129/HHF" class="click_button"><img src="../images/icon/code.png">Code</a>
+<a href="./files/papers/HHF.pdf" class="click_button"><img src="../images/icon/pdf.png">PDF</a>
 
 <!-- [[Arxiv](https://arxiv.org/abs/2112.02225)] [[IEEE](https://ieeexplore.ieee.org/document/9953581)] [[Code](https://github.com/JerryXu0129/HHF)] -->
 
