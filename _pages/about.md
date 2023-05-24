@@ -99,7 +99,7 @@ Arxiv preprint.
 <a href="https://arxiv.org/abs/2212.02015" class="click_button"><img src="../images/icon/arxiv.png">Arxiv</a>
 <a href="https://github.com/XuZhengzhuo/LiVT" class="click_button"><img src="../images/icon/code.png">Code</a> 
 <a href="./files/papers/LiVT.pdf" class="click_button"><img src="../images/icon/pdf.png">PDF</a>
-<a href="https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/22904.png?t=1683529433.022824" class="click_button"><img src="../images/icon/pdf.png">PDF</a>
+<a href="https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/22904.png?t=1683529433.022824" class="click_button"><img src="../images/icon/poster.png">Poster</a>
 
 <!-- [Arxiv](https://arxiv.org/abs/2212.02015) [[Code](https://github.com/XuZhengzhuo/LiVT)] [[PDF](./files/papers/LiVT.pdf)] -->
 
